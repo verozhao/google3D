@@ -18,7 +18,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 For contributions to this project, please refer to the GitHub profile of our collaborator:
-- [Rishita Dhalbisoi] (https://github.com/rishitadhalbisoi)
+- [Rishita Dhalbisoi](https://github.com/rishitadhalbisoi)
 - [Veronica Zhao](https://github.com/ziqiveronica)
 - 
 -
