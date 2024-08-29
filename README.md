@@ -21,7 +21,7 @@ For contributions to this project, please refer to the GitHub profile of our col
 - [Rishita Dhalbisoi](https://github.com/rishitadhalbisoi)
 - [Krithika Subramanian](https://github.com/krisub)
 - [Veronica Zhao](https://github.com/ziqiveronica)
-- 
+- [Heta Patel](https://github.com/HetaPatel6105)
 -
 
 ## Acknowledgments
