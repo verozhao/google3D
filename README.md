@@ -22,7 +22,7 @@ For contributions to this project, please refer to the GitHub profile of our col
 - [Krithika Subramanian](https://github.com/krisub)
 - [Veronica Zhao](https://github.com/ziqiveronica)
 - [Heta Patel](https://github.com/HetaPatel6105)
--
+- [Lauren Hu](https://github.com/lauren-hu-yx)
 
 ## Acknowledgments
 Thanks to contributors and supporters of the project.
